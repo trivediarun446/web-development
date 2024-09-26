@@ -48,13 +48,14 @@ header{
 }
 .navbar .ls{
    display: flex;
-   gap: 2.5rem; 
+   gap: 3.5rem; 
+   
 }
 .navbar .toggle_btn {
     color: white;
     font-size: 1.5rem;
     cursor: pointer;
-    /* display: none; */
+    display: none;
 }
 /* Responsive Design */
 @media(max-width : 992px){
